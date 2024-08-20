@@ -11,4 +11,4 @@ How we can improve tests:
 8. check sorting on home page
 9. check clicking on 'cancel' button on 'Checkout: Overview' page
 
-How can we execute tests: commad 'npx cypress open'
+How can we execute tests: command 'npx cypress open'
